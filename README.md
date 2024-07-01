@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...frontend web dev, DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rishib2482005@gmail.com
+- my leetcode profile-leetcode.com/u/rishi2004/
 
 <!---
 Rishi192004/Rishi192004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
